@@ -1,4 +1,4 @@
-# NoSQL-challenge-week12
+# NoSQL-challenge
 # Establishment Analysis
 
 This project aims to analyze establishments' data and perform various operations using MongoDB and Python.
